@@ -1,0 +1,26 @@
+# Routes
+
+- `/login`
+- `/register`
+- `/verify-otp`
+- `/forgot-password`
+- `/reset-password`
+- `/dashboard`
+- `/resume`
+- `/jobs`
+- `/jobs/recommended`
+- `/applications`
+- `/companies`
+- `/company-recommendations`
+- `/career-intelligence`
+- `/tools/cover-letter`
+- `/tools/roadmap`
+- `/interview/questions`
+- `/interview/practice`
+- `/interview/session`
+- `/premium`
+- `/payments`
+- `/profile`
+- `/settings`
+- `/help`
+- `/admin`
